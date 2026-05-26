@@ -41,6 +41,7 @@ the same setup can be used for other frequency of operation.
 <img width="638" height="177" alt="image" src="https://github.com/user-attachments/assets/8bbae29d-7cc3-43a4-8f52-57f76b088dab" />
 
 ## TABULATION:
+<img width="684" height="870" alt="image" src="https://github.com/user-attachments/assets/a5f67926-817d-40a5-a2b1-b763412c01e6" />
 
 ### HORN ANTENNA
 
@@ -56,9 +57,11 @@ Beam current :
 
 Repeller voltage :
 
-~~~
-V1 : 
-~~~
+##Graph:
+
+<img width="700" height="935" alt="image" src="https://github.com/user-attachments/assets/22aa847b-74e5-4591-b43f-e2c552c34c2f" />
+
+
 ## RESULT:
 
 Thus the polar pattern and the gain of a waveguide horn antenna and parabolicantenna was measured and plotted.
